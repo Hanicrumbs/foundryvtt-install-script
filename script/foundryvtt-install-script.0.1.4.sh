@@ -64,7 +64,7 @@ cd foundryuserdata
 echo -n "FoundryVTT Downloadlink angeben: "
 read foundryvttdownloadlink
 
-wget foundryvtt.zip "$foundryvttdownloadlink"
+wget -O foundryvtt.zip "$foundryvttdownloadlink"
 unzip foundryvtt.zip
 
 # FoundryVTT via PM2 starten
