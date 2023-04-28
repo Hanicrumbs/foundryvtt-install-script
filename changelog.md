@@ -37,3 +37,8 @@
 - Fixed install command for nodesources and nodejs
 - Added 'npm install npm@9.6.5' update command (needs to be updatet once a new version is released)
 - Removed 'apt install node' and 'apt install npm' command
+
+### 0.1.7
+
+- Fixed starting the NodeJs Server. Changed starting it from pm2 to node
+- Added needed variables to the node launch command
