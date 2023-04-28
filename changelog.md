@@ -25,3 +25,8 @@
 
 - Fixed 'wget' command for downloading the foundryvtt.zip file
 - Added several 'echo' commands, announcing what is going to happen
+
+### 0.1.5
+
+- Fixed 'pm2 start ...' command's path-to-file
+- Changed installation for nodejs and npm to silent installation 'apt install -qq -y '
