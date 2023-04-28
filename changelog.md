@@ -30,3 +30,9 @@
 
 - Fixed 'pm2 start ...' command's path-to-file
 - Changed installation for nodejs and npm to silent installation 'apt install -qq -y '
+
+### 0.1.6
+
+- Changed readme section at the top of the file
+- Fixed install command for nodesources and nodejs
+- Added 'npm install npm@9.6.5' update command (needs to be updatet once a new version is released)
