@@ -12,3 +12,8 @@
 
 - Fixed 'apt install update' > 'apt update'
 - Removed 'apt upgrade -y'
+
+## 0.1.3
+
+- Added 'apt install -y npm' to install npm
+- Added 'echo' at the end of the script, announcing that the script will end in X seconds
