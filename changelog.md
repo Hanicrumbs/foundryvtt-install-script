@@ -36,3 +36,4 @@
 - Changed readme section at the top of the file
 - Fixed install command for nodesources and nodejs
 - Added 'npm install npm@9.6.5' update command (needs to be updatet once a new version is released)
+- Removed 'apt install node' and 'apt install npm' command
