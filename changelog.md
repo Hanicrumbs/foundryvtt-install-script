@@ -49,3 +49,7 @@
 - Added 'sleep 10' command after nodejs startup command
 - Added 'pm2 start ...' command
 
+### 0.1.9
+
+- Commented out the pm2 start, pm2 startup and pm2 save commands at the end of the script
+- Added a notice that the pm2 commands need to be executed manuelly
