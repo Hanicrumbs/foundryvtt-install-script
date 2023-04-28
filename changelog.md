@@ -42,3 +42,10 @@
 
 - Fixed starting the NodeJs Server. Changed starting it from pm2 to node
 - Added needed variables to the node launch command
+
+### 0.1.8
+
+- Changed the nodejs startup command to detach from the script
+- Added 'sleep 10' command after nodejs startup command
+- Added 'pm2 start ...' command
+
