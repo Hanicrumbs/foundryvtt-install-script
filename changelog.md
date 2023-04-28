@@ -17,5 +17,6 @@
 
 ### 0.1.3
 
+- Added '-qq' option to 'apt update' command
 - Added 'apt install -y npm' to install npm
 - Added 'echo' at the end of the script, announcing that the script will end in X seconds
