@@ -20,3 +20,8 @@
 - Added '-qq' option to 'apt update' command
 - Added 'apt install -y npm' to install npm
 - Added 'echo' at the end of the script, announcing that the script will end in X seconds
+
+### 0.1.4
+
+- Fixed 'wget' command for downloading the foundryvtt.zip file
+- Added several 'echo' commands, announcing what is going to happen
